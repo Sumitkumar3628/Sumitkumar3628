@@ -4,22 +4,22 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail me at sumit.kumar3628@gmail.com
 
-Programming Languages Learnt:
-C/C++
-Java
-Python
+Programming Languages Learnt: 
+C/C++ 
+Java 
+Python 
 
 Tools :
-Sql
-CSS
-Bootstrap
-c/c++ graphics.h library
+Sql 
+CSS 
+Bootstrap 
+c/c++ graphics.h library 
 
-Hobbies:
-designing web pages
-Sketching and Painting
-listening to music
-playing badminton
+Hobbies: 
+designing web pages 
+Sketching and Painting 
+listening to music 
+playing badminton 
 
 
 
