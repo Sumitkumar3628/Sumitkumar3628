@@ -17,9 +17,7 @@ c/c++ graphics.h library
 
 Hobbies: 
 designing web pages 
-Sketching and Painting 
-listening to music 
-playing badminton 
+programming
 
 
 
